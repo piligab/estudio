@@ -1335,7 +1335,8 @@ mark,
   text-transform: capitalize;
 }
 .text-muted {
-  color: #777;
+  /* color: #777; */
+  color: #fff;
 }
 .text-primary {
   color: #337ab7;
