@@ -13,16 +13,15 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; */
     /* font-family: 'Roboto', sans-serif; */
-    /* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; */
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     /* font-family: 'Roboto', sans-serif; */
 }
 
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    /* vertical-align: middle; */
     vertical-align: text-top;
 }
 
@@ -65,7 +64,7 @@ body {
 
 hr.small {
     max-width: 115px;
-    max-height: 2px;
+    max-height: 20px;
 }
 
 /* Side Menu */
@@ -160,8 +159,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    /* background: url(../img/bg.jpg) no-repeat center center scroll; */
-    background: url(../img/ajedrez_2piezas.jpg) no-repeat center center scroll;
+    background: url(../img/inicio_ajedrez.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -184,8 +182,6 @@ hr.small {
 
 .service-item {
     margin-bottom: 120px;
-    /* margin-left: auto;
-    padding-left: auto; */
 }
 
 /* Callout */
