@@ -64,6 +64,7 @@ body {
 
 hr.small {
     max-width: 115px;
+    size:4em;
 }
 
 /* Side Menu */
