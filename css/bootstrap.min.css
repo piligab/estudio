@@ -85,6 +85,10 @@ sub {
 img {
   border: 0;
 }
+/* imagen izquierda */
+img.izquierda {
+    float: left;
+  }
 svg:not(:root) {
   overflow: hidden;
 }
