@@ -172,6 +172,10 @@ hr.small {
     -o-background-size: cover;
 }
 
+.inicio {
+    padding: 50px 0;
+    color: #252525;
+}
 /* About */
 
 .about {
