@@ -173,11 +173,11 @@ hr.small {
 }
 
 .inicio {
-    /* padding: 20px 600px; */
+    padding: 20px auto;
     color: #252525;
-    padding: 50px 0;
+    /* padding: 10px 0;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
 }
 /* About */
 
