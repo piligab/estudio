@@ -1381,10 +1381,16 @@ a.text-danger:hover {
 }
 /* inicio */
 .bg-inicio {
-    color: #252525;
-    background-color: #252525;
+    color:#252525;
+    background-color:#252525;
     /* color: #fff;
     background-color: #5c6162; */
+}
+.line_portfolio {
+  color: #C0C0C0;
+  background-color: #C0C0C0;
+  /* color: #fff;
+  background-color: #5c6162; */
 }
 a.bg-primary:focus,
 a.bg-primary:hover {

@@ -160,12 +160,13 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+/* chess background */
 .header {
     display: table;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/inicio_ajedrez.jpg) no-repeat center center scroll;
+    background: url(../img/inicio_ajedrez_waifu2x_photo_noise3_tta_1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -174,10 +175,14 @@ hr.small {
 
 .inicio {
     /* padding: 20px 300px; */
-    color: #252525;
+    color:#252525;
     /* padding: 10px 0;
     margin-left: auto;
     margin-right: auto; */
+}
+
+.line_portfolio {
+    color: #C0C0C0;
 }
 /* About */
 
